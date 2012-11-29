@@ -1,6 +1,6 @@
 # CHANGELOG for ctags
 
-This file is used to list changes made in each version of ctags.
+This file is used to list changes made in each version of exuberant-ctags.
 
 ## 0.1.0:
 

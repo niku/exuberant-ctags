@@ -8,5 +8,5 @@
 #
 case node['platform_family']
 when 'debian'
-  package 'ctags'
+  package 'exuberant-ctags'
 end
